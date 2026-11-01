@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "friendssmp-BuhU.aternos.me:22840",
+    "port":  22840,
     "version": "",
     "try-creative": false
   },
